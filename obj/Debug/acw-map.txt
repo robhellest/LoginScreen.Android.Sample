@@ -1,0 +1,20 @@
+LoginScreen.Android.Sample.Activity1, LoginScreen.Android.Sample;md5f82c2fe3b3d595aba44eb913e00ac74b.Activity1
+LoginScreen.Android.Sample.Activity1, LoginScreen.Android.Sample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f82c2fe3b3d595aba44eb913e00ac74b.Activity1
+LoginScreen.Android.Sample.Activity1;md5f82c2fe3b3d595aba44eb913e00ac74b.Activity1
+loginscreen.android.sample.Activity1;md5f82c2fe3b3d595aba44eb913e00ac74b.Activity1
+LoginScreen.Activities.LoginActivity, Xamarin.Controls.LoginScreen.Android;md5d9824dfb6cea2d55cc37dca75a94f8e8.LoginActivity
+LoginScreen.Activities.LoginActivity, Xamarin.Controls.LoginScreen.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5d9824dfb6cea2d55cc37dca75a94f8e8.LoginActivity
+LoginScreen.Activities.LoginActivity;md5d9824dfb6cea2d55cc37dca75a94f8e8.LoginActivity
+loginscreen.activities.LoginActivity;md5d9824dfb6cea2d55cc37dca75a94f8e8.LoginActivity
+LoginScreen.Activities.RegisterActivity, Xamarin.Controls.LoginScreen.Android;md5d9824dfb6cea2d55cc37dca75a94f8e8.RegisterActivity
+LoginScreen.Activities.RegisterActivity, Xamarin.Controls.LoginScreen.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5d9824dfb6cea2d55cc37dca75a94f8e8.RegisterActivity
+LoginScreen.Activities.RegisterActivity;md5d9824dfb6cea2d55cc37dca75a94f8e8.RegisterActivity
+loginscreen.activities.RegisterActivity;md5d9824dfb6cea2d55cc37dca75a94f8e8.RegisterActivity
+LoginScreen.Activities.ResetActivity, Xamarin.Controls.LoginScreen.Android;md5d9824dfb6cea2d55cc37dca75a94f8e8.ResetActivity
+LoginScreen.Activities.ResetActivity, Xamarin.Controls.LoginScreen.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5d9824dfb6cea2d55cc37dca75a94f8e8.ResetActivity
+LoginScreen.Activities.ResetActivity;md5d9824dfb6cea2d55cc37dca75a94f8e8.ResetActivity
+loginscreen.activities.ResetActivity;md5d9824dfb6cea2d55cc37dca75a94f8e8.ResetActivity
+LoginScreen.Activities.BaseActivity, Xamarin.Controls.LoginScreen.Android;md5d9824dfb6cea2d55cc37dca75a94f8e8.BaseActivity
+LoginScreen.Activities.BaseActivity, Xamarin.Controls.LoginScreen.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5d9824dfb6cea2d55cc37dca75a94f8e8.BaseActivity
+LoginScreen.Activities.BaseActivity;md5d9824dfb6cea2d55cc37dca75a94f8e8.BaseActivity
+loginscreen.activities.BaseActivity;md5d9824dfb6cea2d55cc37dca75a94f8e8.BaseActivity

@@ -1,0 +1,2 @@
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\bin\Debug\LoginScreen.Android.Sample.dll
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\lib\android\Xamarin.Controls.LoginScreen.Android.dll

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="LoginScreen.Android.Sample">
+  <uses-sdk android:maxSdkVersion="17" android:minSdkVersion="12" />
+  <application android:label="LoginScreen.Android.Sample" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:label="LoginScreen.Android.Sample" android:name="md5f82c2fe3b3d595aba44eb913e00ac74b.Activity1">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="LoginActivity" android:name="md5d9824dfb6cea2d55cc37dca75a94f8e8.LoginActivity" />
+    <activity android:label="RegisterActivity" android:name="md5d9824dfb6cea2d55cc37dca75a94f8e8.RegisterActivity" />
+    <activity android:label="ResetActivity" android:name="md5d9824dfb6cea2d55cc37dca75a94f8e8.ResetActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="LoginScreen.Android.Sample.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.LoginScreen.Android.Sample" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>

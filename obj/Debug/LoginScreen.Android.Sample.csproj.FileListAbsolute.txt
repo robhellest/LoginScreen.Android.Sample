@@ -1,0 +1,15 @@
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\bin\Debug\LoginScreen.Android.Sample.dll
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\bin\Debug\LoginScreen.Android.Sample.pdb
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\bin\Debug\LoginScreen.Android.Sample.dll.mdb
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\bin\Debug\LoginScreen.Android.Sample.apk
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\bin\Debug\LoginScreen.Android.Sample-Signed.apk
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\bin\Debug\Xamarin.Controls.LoginScreen.Android.dll
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\LoginScreen.Android.Sample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\LoginScreen.Android.Sample.dll
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\LoginScreen.Android.Sample.pdb
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\android\bin\LoginScreen.Android.Sample.apk
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\res\layout\main.xml
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\res\values\strings.xml
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\res\drawable\icon.png
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\R.cs.flag
+C:\Users\Administrator\Downloads\loginscreen-1.4.1\loginscreen-1.4.1\samples\LoginScreen.Android.Sample\obj\Debug\uploadflags.txt
